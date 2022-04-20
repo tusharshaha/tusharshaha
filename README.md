@@ -1,11 +1,13 @@
+[![MasterHead](./web.gif)](https://tushar-kumar-shaha-portfolio.netlify.app/)
+
 <h1 align="center">Hi 👋, I'm Tushar Kumar Shaha</h1>
 <h3 align="center">Front-End Developer || MERN-Stack Developer</h3>
 
-<img align="right" alt="Coding" width="420" src="./webDev.gif">
+<img align="right" alt="Coding" width="420" src="./web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharshaha&label=Profile%20views&color=0e75b6&style=flat" alt="tusharshaha" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://tushar-kumar-shaha-portfolio.netlify.app/](https://tushar-kumar-shaha-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Tushar Kumar Shaha Portfolio](https://tushar-kumar-shaha-portfolio.netlify.app/)
 
 - 📫 How to reach me **tusharkrs2018@gmail.com**
 
