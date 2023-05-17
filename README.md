@@ -1,31 +1,41 @@
-[![MasterHead](./web.gif)](https://tushar-kumar-shaha-portfolio.netlify.app/)
+<!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="300" /> -->
 
-<h1 align="center">Hi 👋, I'm Tushar Kumar Shaha</h1>
-<h3 align="center">Front-End Developer</h3>
+## ABOUT ME
 
-<img align="right" alt="Coding" width="300" src="./web-development.gif">
+As a junior frontend developer with a passion for creating engaging and user-friendly experiences, I am dedicated to leveraging my skills in HTML, CSS, and JavaScript to build dynamic and responsive web applications. I thrive in a collaborative environment and enjoy working with others to develop innovative solutions to complex problems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharshaha&label=Profile%20views&color=0e75b6&style=flat" alt="tusharshaha" /> </p>
+With a strong foundation in front-end technologies, including Bootstrap, Tailwind CSS, and DaisyUI, I am experienced in creating visually appealing and responsive designs. I am also proficient in JavaScript and have hands-on experience with React.js and Next.js for building interactive and scalable web applications. Additionally, I have knowledge of GraphQL, Nest.js, Express.js, Typescript, MongoDB, and Firebase, which adds versatility to my skill set.
 
-- 👨‍💻 All of my projects are available at [Tushar Kumar Shaha Portfolio](https://tushar-kumar-shaha-portfolio.netlify.app/)
+Whether working on a solo project or collaborating with others, I approach each task with a positive attitude and a willingness to learn and grow. I am excited about the opportunity to join a team that values creativity, collaboration, and innovation and am confident in my ability to make a positive contribution as a junior frontend developer.
 
-- 📫 How to reach me **tusharkrs2018@gmail.com**
+## REACH ME AT
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tushar-kumar-shaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-kumar-shaha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16843566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16843566" height="30" width="40" /></a>
-<a href="https://codesandbox.com/tusharshaha619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tusharshaha619" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tushar-kumar-shaha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/16843566"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+<a href="https://www.facebook.com/tusharkshaha619"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </p>
 
+## TOOLS & TECHNOLOGIES
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-2965F1?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/TAILWIND CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/NEXTJS-000000?style=flat&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/GRAPHQL-E10098?style=flat&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/NESTJS-E0234E?style=flat&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/EXPRESS JS-000000?style=flat&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=flat&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+</p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharshaha&show_icons=true&locale=en&layout=compact"
-        alt="tusharshaha" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=tusharshaha&show_icons=true&locale=en"
-        alt="tusharshaha" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharshaha&langs_count=3&theme=radical" alt="Top languanges" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tusharshaha&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" />
