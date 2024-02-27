@@ -38,4 +38,4 @@ Whether working on a solo project or collaborating with others, I approach each 
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharshaha&langs_count=3&theme=radical" alt="Top languanges" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tusharshaha&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=tusharshaha&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" /> -->
