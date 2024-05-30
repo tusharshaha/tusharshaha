@@ -2,9 +2,9 @@
 
 ## ABOUT ME
 
-As a junior frontend developer with a passion for creating engaging and user-friendly experiences, I am dedicated to leveraging my skills in HTML, CSS, and JavaScript to build dynamic and responsive web applications. I thrive in a collaborative environment and enjoy working with others to develop innovative solutions to complex problems.
+As a frontend developer with a passion for creating engaging and user-friendly experiences, I am dedicated to leveraging my skills in HTML, CSS, and JavaScript to build dynamic and responsive web applications. I thrive in a collaborative environment and enjoy working with others to develop innovative solutions to complex problems.
 
-With a strong foundation in front-end technologies, including Bootstrap, Tailwind CSS, and DaisyUI, I am experienced in creating visually appealing and responsive designs. I am also proficient in JavaScript and have hands-on experience with React.js and Next.js for building interactive and scalable web applications. Additionally, I have knowledge of GraphQL, Nest.js, Express.js, Typescript, MongoDB, and Firebase, which adds versatility to my skill set.
+With a strong foundation in front-end technologies, including Bootstrap, and Tailwind CSS, I am experienced in creating visually appealing and responsive designs. I am also proficient in JavaScript and have hands-on experience with React.js and Next.js for building interactive and scalable web applications. Additionally, I have knowledge of GraphQL, Nest.js, Express.js, Typescript, MongoDB, and Firebase, which adds versatility to my skill set.
 
 Whether working on a solo project or collaborating with others, I approach each task with a positive attitude and a willingness to learn and grow. I am excited about the opportunity to join a team that values creativity, collaboration, and innovation and am confident in my ability to make a positive contribution as a junior frontend developer.
 
