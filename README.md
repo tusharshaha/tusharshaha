@@ -12,7 +12,7 @@ Whether working on a solo project or collaborating with others, I approach each 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tushar-kumar-shaha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/16843566"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+<!-- <a href="https://stackoverflow.com/users/16843566"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a> -->
 <a href="https://www.facebook.com/tusharkshaha619"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </p>
 <!--
@@ -38,5 +38,5 @@ Whether working on a solo project or collaborating with others, I approach each 
 </p>
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharshaha&langs_count=3&theme=radical" alt="Top languanges" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tusharshaha&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharshaha&langs_count=3&theme=radical" alt="Top languanges" /> -->
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=tusharshaha&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" /> -->
