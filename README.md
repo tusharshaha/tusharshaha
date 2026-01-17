@@ -1,19 +1,19 @@
 # Hi there, I'm Tushar Kumar Shaha! 👋
 
-### 🤖 AI Developer | 🚀 Full Stack Engineer | 💡 Self-Taught Enthusiast
+### AI Developer | Full Stack Engineer | Self-Taught Enthusiast
 
 I am a passionate developer with a journey that began in **2021**. Starting as a self-taught programmer, I have evolved through remote roles in Frontend and Full Stack development. Currently, I am focused on the cutting edge of AI, building intelligent automation and LLM-powered applications.
 
 ---
 
-### 🔭 Current Status
+### Current Status
 - 💼 **Working as:** AI Developer at [Rectify.so](https://rectify.so) (Since Jan 2025)
 - 🧠 **Focus:** Building AI agents, expanding LLM capabilities, and workflow automation.
 - 🌱 **Learning:** Advanced RAG architectures and Multi-Agent Systems.
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### Tech Stack & Expertise
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
@@ -23,7 +23,7 @@ I am a passionate developer with a journey that began in **2021**. Starting as a
 | **⚙️ Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-Workflow-success?style=for-the-badge) |
 
 
-### 🤝 Let's Connect
+### Let's Connect
 
 I'm always open to discussing AI, tech stacks, or new opportunities.
 
