@@ -1,6 +1,6 @@
 # Hi there, I'm Tushar Kumar Shaha! 👋
 
-### AI Developer | Full Stack Engineer | Self-Taught Enthusiast
+### AI Developer | Software Engineer | Self-Taught Enthusiast
 
 I am a passionate developer with a journey that began in **2021**. Starting as a self-taught programmer, I have evolved through remote roles in Frontend and Full Stack development. Currently, I am focused on the cutting edge of AI, building intelligent automation and LLM-powered applications.
 
